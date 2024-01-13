@@ -1,2 +1,2 @@
-# congenial-potato
+# potato
 potato
